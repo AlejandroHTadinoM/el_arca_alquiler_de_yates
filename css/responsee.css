@@ -11,7 +11,7 @@
   margin:0;
   }
 body {
-  background-image: url(/img/navy_blue.png);
+  background-image: url(../img/navy_blue.png);
   background-repeat: repeat;
   font-size:100%;
   font-family:"Open Sans",Arial,sans-serif;
@@ -523,4 +523,8 @@ nav {
   color: #FAFAFA;
   bottom: 0;
   padding: 1rem;
+}
+
+.isla {
+  padding: 1.2rem;
 }
