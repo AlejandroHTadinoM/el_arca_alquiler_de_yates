@@ -81,7 +81,7 @@ nav {
 .top-nav ul {padding:0;}
 .top-nav ul ul {
   position:absolute;
-  background:#262626;
+  background:#0B6178;
 }
 .top-nav li {
   float:left;
@@ -287,6 +287,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 .l-11 {width:91.6666%;}
 .l-12 {width:100%;}
 .right {float:right;}
+
 @media screen and (max-width:768px) {
 .size-960 {max-width:768px;}
 .size-1140 {max-width:768px;}
@@ -298,7 +299,7 @@ nav {
   cursor:pointer;
   line-height:3em;
 }
-.top-nav li a {background:none repeat scroll 0 0 #4a4a4a;}
+.top-nav li a {background:none repeat scroll 0 0 #0B6178;}
 .top-nav > ul {
   height:0;
   max-width:100%;
@@ -320,7 +321,6 @@ nav {
   padding:0;
 }
 .top-nav li a {
-  border-top:1px solid #333;
   color:#fff;
   display:block;
   padding:0.625em;
@@ -508,7 +508,7 @@ nav {
 }
 
 .top-nav li a {
-  color: #212121;
+  color: #FAFAFA;
 }
 
 .top-nav li a:hover, .aside-nav li a:hover {
