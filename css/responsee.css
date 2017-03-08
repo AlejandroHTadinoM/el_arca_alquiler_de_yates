@@ -11,7 +11,7 @@
   margin:0;
   }
 body {
-  /*background-image: url(../img/footer_lodyas.png);*/
+  background-image: url(/img/navy_blue.png);
   background-repeat: repeat;
   font-size:100%;
   font-family:"Open Sans",Arial,sans-serif;
@@ -91,7 +91,7 @@ nav {
 .top-nav li a {
   padding:1.25em;
   display:block;
-  color:#fff;
+  color:#212121;
 }
 .top-nav li ul li a {
   background:none repeat scroll 0 0 #0B6178;
@@ -321,7 +321,7 @@ nav {
   padding:0;
 }
 .top-nav li a {
-  color:#fff;
+  color:#212121;
   display:block;
   padding:0.625em;
   text-decoration:none;
@@ -493,10 +493,6 @@ nav {
 ** Tema
 **
 *******************************/
-body {
-  background-image: url("/img/bg.jpg");
-  background-size: cover;
-}
 
 .banner {
   background-color: #FAFAFA;
@@ -508,7 +504,7 @@ nav {
 }
 
 .top-nav li a {
-  color: #FAFAFA;
+  color: #212121;
 }
 
 .top-nav li a:hover, .aside-nav li a:hover {
