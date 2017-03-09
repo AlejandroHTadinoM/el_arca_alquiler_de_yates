@@ -11,7 +11,7 @@
   margin:0;
   }
 body {
-  background-image: url(../img/navy_blue.png);
+  background-image: url(../img/weather.png);
   background-repeat: repeat;
   font-size:100%;
   font-family:"Open Sans",Arial,sans-serif;
@@ -495,7 +495,7 @@ nav {
 *******************************/
 
 .banner {
-  background-color: #FAFAFA;
+  background-color: #FFF;
 }
 
 nav {
@@ -527,4 +527,5 @@ nav {
 
 .isla {
   padding: 1.2rem;
+  text-align: justify;
 }
